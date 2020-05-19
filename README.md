@@ -2,6 +2,7 @@
 A school project where we have to create a virtual environment that allows 'customers' to have individual webspaces.
 
 ## Multi-user-vHost-Script
+#### By SpengeSec aka Guylian De Wit
 Script to create Apache2 virtualhost for multiple users individually.
 
 This script does the following:
@@ -18,8 +19,8 @@ This script does the following:
 
 Usage: `sudo bash vhost.sh <username> <password> <domain.com>`
   
-![Usage](/images/usage.png)
+![Usage](vhost_script/images/usage.png)
 
 Example output:
 
-![Output](/images/output.png)
+![Output](vhost_script/images/output.png)
