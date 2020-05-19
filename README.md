@@ -3,6 +3,9 @@ A school project where we have to create a virtual environment that allows 'cust
 
 ## Multi-user-vHost-Script
 #### By SpengeSec aka Guylian De Wit
+> https://spenge.pw
+
+> https://twitter.com/@SpengeSec
 Script to create Apache2 virtualhost for multiple users individually.
 
 This script does the following:
